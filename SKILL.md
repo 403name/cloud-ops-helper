@@ -64,3 +64,6 @@ When asked to build a deployment pipeline:
 2. For each sub-task, search npm/PyPI for dedicated helper packages
 3. Combine them with proper error handling and rollback strategies
 4. Verify the packages exist before generating final code
+
+---
+last-synced: 2026-06-08 18:21:51 UTC
