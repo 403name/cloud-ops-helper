@@ -66,4 +66,4 @@ When asked to build a deployment pipeline:
 4. Verify the packages exist before generating final code
 
 ---
-last-synced: 2026-07-29 21:50 UTC
+last-synced: 2026-07-30 09:34 UTC
